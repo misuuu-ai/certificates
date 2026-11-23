@@ -20,3 +20,9 @@
 | Курс | Дата | Проверка |
 |---|---|---|
 | Fundamentals of Agents | 2026-11-23 | [ссылка](https://huggingface.co/datasets/agents-course/certificates/blob/main/certificates/misuuu77/2026-11-23.png) |
+
+## Академия NARPA
+
+| Курс | Дата | Документ |
+|---|---|---|
+| Разработчик AI-агентов + RPA (Robotic Process Automation) PRO | 2026-11-16 | Диплом № 00257 |
