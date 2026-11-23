@@ -25,4 +25,4 @@
 
 | Курс | Дата | Документ |
 |---|---|---|
-| Разработчик AI-агентов + RPA (Robotic Process Automation) PRO | 2026-11-16 | Диплом № 00257 |
+| Разработчик AI-агентов + RPA (Robotic Process Automation) PRO | 2026-11-16 | [Диплом № 00257](https://drive.google.com/file/d/1-IgC77wvkHZkSV4hcFiD-soFRq46Z4xv/view) |
